@@ -12,7 +12,7 @@ jump as much as they can before the timer runs out.
 **As of right now, using the sensors functionality is not implemented and jumps are registerred by button tap.
 
 ### Screenshots
-![Image](MDW-demo/gamePlay.png)
+![Image](https://github.com/alexfuoc/mscs722-native/tree/main/MDW-Demo/gamePlay.png)
 This is the home screen.
 
 This is the main game screen
