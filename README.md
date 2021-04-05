@@ -12,11 +12,12 @@ jump as much as they can before the timer runs out.
 **As of right now, using the sensors functionality is not implemented and jumps are registerred by button tap.
 
 ### Screenshots
-![Image](mainMenu.png)
 This is the main menu.
+![Image](mainMenu.png)
 
-![Image](topScores.png)
 This is the top score screen.
+![Image](topScores.png)
+
 
 This is the main game screen
 ![Image](gamePlay.png)
